@@ -38,7 +38,7 @@ const quizQuestions = [
             { text: "Bancha", correct: false },
             { text: "Gyokuro", correct: false }
         ],
-        explanation: "Genmaicha combines green tea leaves with roasted brown rice. Originally consumed by poor Japanese people to stretch their tea supply, it's now enjoyed by all and valued for its unique toasted flavor and aroma."
+        explanation: "Genmaicha combines green tea leaves with roasted brown rice."
     },
     {
         question: "What is the most commonly consumed green tea in Japan?",
